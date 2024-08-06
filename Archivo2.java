@@ -7,4 +7,7 @@ public class Archivo2 {
         this.titulo = titulo;
         this.subTitulo = subtitulo;
     }
+    public String getTitulo(){
+        return titulo;
+    }
 }
