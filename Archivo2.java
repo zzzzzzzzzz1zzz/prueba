@@ -13,4 +13,7 @@ public class Archivo2 {
     public void mensaje(){
         System.out.println("Hola");
     }
+    public void cambioRamaB(){
+        System.out.println("Rama B");
+    }
 }
